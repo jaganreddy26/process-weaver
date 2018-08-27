@@ -1,0 +1,20 @@
+ul {
+    list-style: none;
+    display: flex;
+    font-size: 12px;
+}
+li {
+    padding: 16px;
+}
+.header{
+    background:#ffffff;
+    padding:0px;
+    margin:0px
+}
+.request{
+    background: #f7981c;
+    color: #fff;
+    margin: -13px;
+    border-radius: 13px;
+    padding: 10px;
+}
